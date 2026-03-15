@@ -56,6 +56,5 @@ learning: React, Node.js, AI/ML, Open Source
 
 <h2 align="center">🐍 My Contribution Snake</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EmanKhalid27/EmanKhalid27/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+![Snake animation](https://github.com/EmanKhalid27/EmanKhalid27/blob/output/github-contribution-grid-snake.svg) /></p>
 <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=EmanKhalid27&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
