@@ -25,7 +25,8 @@ learning: React, Node.js, AI/ML, Open Source
 <p align="center">
 <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="coding gif"/>
 </p>
-
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=EmanKhalid27&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+```
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -55,7 +56,7 @@ learning: React, Node.js, AI/ML, Open Source
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=EmanKhalid27&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
 
 <h2 align="center">🐍 My Contribution Snake</h2>
 <p align="center">
