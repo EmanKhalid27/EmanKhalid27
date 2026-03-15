@@ -21,9 +21,8 @@ pronouns: She/Her | They/Them
 role: FrontEnd Developer | AI Enthusiast
 current_focus: Building modern web apps & automation tools                                            
 learning: React, Node.js, AI/ML, Open Source
-<p align="center"> <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="coding gif"/> </p>
 ```
-
+<p align="center"> <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="coding gif"/> </p>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -55,10 +54,8 @@ learning: React, Node.js, AI/ML, Open Source
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
-
 <h2 align="center">🐍 My Contribution Snake</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/EmanKhalid27/EmanKhalid27/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
-
 <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=EmanKhalid27&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
