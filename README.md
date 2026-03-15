@@ -22,3 +22,6 @@ role: FrontEnd Developer | AI Enthusiast
 current_focus: Building modern web apps & automation tools
 learning: React, Node.js, AI/ML, Open Source
 <p align="center"> <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="coding gif"/> </p>
+<p align="center">
+  <img src="https://github.com/YOUR-GITHUB/YOUR-GITHUB/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
