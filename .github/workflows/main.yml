@@ -10,16 +10,22 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Ensure the token has permission to push to the output branch
+      
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
+      # Snake Animation - Switched to the newer 'generate' version
+      - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: EmanKhalid27
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          # Updated outputs for the newer version of the snake action
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Deploy to output branch
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      # Deploy to output branch - Updated to v4 to fix Node.js warnings
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
