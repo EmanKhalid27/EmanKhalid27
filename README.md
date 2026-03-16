@@ -25,7 +25,7 @@
 <!-- ===================== ABOUT ME ===================== -->
 ## ⚡ About Me
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```yaml
 name: Eman Khalid
@@ -112,14 +112,17 @@ hobbies:
   <a href="https://github.com/EmanKhalid27">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanKhalid27&show_icons=true&theme=tokyonight&rank_icon=github" alt="Eman's GitHub Stats" height="192px" />
   </a>
-  <a href="https://github.com/aEmanKhalid27">
+  <a href="https://github.com/EmanKhalid27">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanKhalid27&layout=compact&theme=tokyonight" alt="Top Langs" height="192px" />
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="Eman Khalid" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmanKhalid27&theme=tokyonight" alt="Eman Khalid's Streak" />
+</p>
 ---
-## 🐍 My Contributions
+
+##  🐍 My Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/EmanKhalid27/EmanKhalid27/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
