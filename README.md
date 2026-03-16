@@ -15,12 +15,11 @@
 </p>
 
 <!-- ===================== ABOUT ME ===================== -->
-
 ## ⚡ About Me
 
-<table>
-<tr>
-<td>
+<table border="0" cellpadding="0" cellspacing="0" align="center">
+<tr style="border: none;">
+<td width="600" valign="top" style="border: none;">
 
 ```yaml
 name: Eman Khalid
@@ -53,17 +52,12 @@ currently_learning: ["React", "Node.js", "AI/ML", "Docker"]
 2026 Goals: ["Contribute to 10+ Open Source projects", "Master Next.js"]
 hobbies: ["Coding", "Exploring AI", "Reading Tech Blogs", "Gaming"]
 ```
-
 </td>
-
-<td>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-
+<td width="300" valign="middle" align="center" style="border: none;">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="display: block; margin-top: 20px;"/>
 </td>
 </tr>
 </table>
-
 
 
 ## 🌐 Detailed Skills & Tools
@@ -98,10 +92,10 @@ hobbies: ["Coding", "Exploring AI", "Reading Tech Blogs", "Gaming"]
 ## 📈 My GitHub History
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/EmanKhalid27">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanKhalid27&show_icons=true&theme=tokyonight&rank_icon=github" alt="Eman's GitHub Stats" height="192px" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/aEmanKhalid27">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanKhalid27&layout=compact&theme=tokyonight" alt="Top Langs" height="192px" />
   </a>
 </p>
