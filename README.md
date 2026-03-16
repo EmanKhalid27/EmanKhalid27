@@ -47,7 +47,7 @@ currently_learning: ["React", "Node.js", "AI/ML", "Docker"]
 2026 Goals: ["Contribute to 10+ Open Source projects", "Master Next.js"]
 hobbies: ["Coding", "Exploring AI", "Reading Tech Blogs", "Gaming"]
 ```
-<p align="center"> <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="coding gif"/> </p>
+<p align="right"> <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="coding gif"/> </p>
 
 🚀 Some Tools I Have Used and Learned
 
@@ -55,6 +55,7 @@ hobbies: ["Coding", "Exploring AI", "Reading Tech Blogs", "Gaming"]
 <!-- Tools & Editors -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 <!-- Frontend -->
 <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
@@ -97,5 +98,7 @@ hobbies: ["Coding", "Exploring AI", "Reading Tech Blogs", "Gaming"]
 
 <h2 align="center">🐍 My Contribution Snake</h2>
 <p align="center">
-![Snake animation](https://github.com/EmanKhalid27/EmanKhalid27/blob/output/github-contribution-grid-snake.svg) /></p>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DEmanKhalid27%26show_icons%3Dtrue%26theme%3Dtokyonight" alt="GitHub Stats" />
+</p>
+
 <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=EmanKhalid27&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
