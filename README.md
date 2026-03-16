@@ -17,9 +17,7 @@
 
 ## ⚡ About Me
 
-<table>
-<tr>
-<td>
+<img align="right" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="280"/>
 
 ```yaml
 name: Eman Khalid
@@ -53,15 +51,6 @@ currently_learning: ["React", "Node.js", "AI/ML", "Docker"]
 hobbies: ["Coding", "Exploring AI", "Reading Tech Blogs", "Gaming"]
 ```
 
-</td>
-
-<td>
-
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300"/>
-
-</td>
-</tr>
-</table>
 
 ### 🌐 Detailed Skills & Tools
 
