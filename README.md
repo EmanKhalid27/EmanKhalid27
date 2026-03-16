@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%20👋&animation=fadeIn&type=waving&color=gradient&height=120" alt="Animated Header"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Eman Khalid </h1>
+<h1 align="center"> I'm Eman Khalid </h1>
 <p align="center">💻 A passionate frontend developer | AI enthusiast | Lifelong learner</p>
 
 <!-- ===================== SOCIAL LINKS ===================== -->
@@ -14,8 +14,9 @@
 </p>
 
 <!-- ===================== ABOUT ME ===================== -->
-## ⚡ About Me
 
+## ⚡ About Me
+<p align="left">
 ```yaml
 name: Eman Khalid
 located_in: Pakistan
@@ -47,6 +48,7 @@ currently_learning: ["React", "Node.js", "AI/ML", "Docker"]
 2026 Goals: ["Contribute to 10+ Open Source projects", "Master Next.js"]
 hobbies: ["Coding", "Exploring AI", "Reading Tech Blogs", "Gaming"]
 ```
+ </p>
 <p align="right"> <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="coding gif"/> </p>
 
 ### 🌐 Detailed Skills & Tools
@@ -78,9 +80,20 @@ hobbies: ["Coding", "Exploring AI", "Reading Tech Blogs", "Gaming"]
 </p>
 
 ---
+## 📈 My GitHub History
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanKhalid27&show_icons=true&theme=tokyonight&rank_icon=github" alt="Eman's GitHub Stats" height="192px" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanKhalid27&layout=compact&theme=tokyonight" alt="Top Langs" height="192px" />
+  </a>
+</p>
+
+---
 ### 🐍 My Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/EmanKhalid27/EmanKhalid27/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-<img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=EmanKhalid27&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
