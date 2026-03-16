@@ -48,7 +48,6 @@ currently_learning: ["React", "Node.js", "AI/ML", "Docker"]
 2026 Goals: ["Contribute to 10+ Open Source projects", "Master Next.js"]
 hobbies: ["Coding", "Exploring AI", "Reading Tech Blogs", "Gaming"]
 ```
-<p align="right"> <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="coding gif"/> </p>
 
 ### 🌐 Detailed Skills & Tools
 
@@ -77,6 +76,7 @@ hobbies: ["Coding", "Exploring AI", "Reading Tech Blogs", "Gaming"]
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+<p align="right"> <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="coding gif"/> </p>
 
 ---
 ## 📈 My GitHub History
