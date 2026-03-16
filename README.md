@@ -110,19 +110,22 @@ hobbies:
 
 <p align="center">
   <a href="https://github.com/EmanKhalid27">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanKhalid27&show_icons=true&theme=tokyonight&rank_icon=github" alt="Eman's GitHub Stats" height="192px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=EmanKhalid27&show_icons=true&theme=tokyonight&rank_icon=github" alt="Eman's GitHub Stats" height="180px" />
   </a>
   <a href="https://github.com/EmanKhalid27">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanKhalid27&layout=compact&theme=tokyonight" alt="Top Langs" height="192px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanKhalid27&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmanKhalid27&theme=tokyonight" alt="Eman Khalid's Streak" />
+  <a href="https://github.com/EmanKhalid27">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmanKhalid27&theme=tokyonight" alt="Eman Khalid's Streak" />
+  </a>
 </p>
+
 ---
 
-##  🐍 My Contributions
+## 🐍 My Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/EmanKhalid27/EmanKhalid27/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
