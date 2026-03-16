@@ -16,21 +16,20 @@
 
 <!-- ===================== ABOUT ME ===================== -->
 ## ⚡ About Me
-
-<table border="0" cellpadding="0" cellspacing="0" align="center">
-<tr style="border: none;">
-<td width="600" valign="top" style="border: none;">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ```yaml
 name: Eman Khalid
 located_in: Pakistan
 current_job: FrontEnd Developer | AI Enthusiast
-education: 
+
+education:
   [
     "Self-Taught Developer and Designer",
     "Computer Science Student"
   ]
-current_focus: Building modern web apps & automation tools
+
+company: Open Source & Personal Projects
 
 fields_of_interests:
   [
@@ -44,20 +43,29 @@ fields_of_interests:
 technical_background:
   [
     "FrontEnd Development with React",
+    "JavaScript / Node.js Development",
     "UI/UX Designing",
-    "JavaScript/Node.js Development"
+    "Building AI-powered Tools"
   ]
 
-currently_learning: ["React", "Node.js", "AI/ML", "Docker"]
-2026 Goals: ["Contribute to 10+ Open Source projects", "Master Next.js"]
-hobbies: ["Coding", "Exploring AI", "Reading Tech Blogs", "Gaming"]
+currently_learning:
+  ["React", "Node.js", "AI/ML", "Docker"]
+
+2026 Goals:
+  [
+    "Contribute to 10+ Open Source Projects",
+    "Master Next.js",
+    "Build impactful AI-powered applications"
+  ]
+
+hobbies:
+  [
+    "Coding",
+    "Exploring AI",
+    "Reading Tech Blogs",
+    "Gaming"
+  ]
 ```
-</td>
-<td width="300" valign="middle" align="center" style="border: none;">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="display: block; margin-top: 20px;"/>
-</td>
-</tr>
-</table>
 
 
 ## 🌐 Detailed Skills & Tools
