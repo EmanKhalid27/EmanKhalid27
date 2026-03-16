@@ -16,7 +16,7 @@
 <!-- ===================== ABOUT ME ===================== -->
 
 ## ⚡ About Me
-<p align="left">
+
 ```yaml
 name: Eman Khalid
 located_in: Pakistan
@@ -48,7 +48,6 @@ currently_learning: ["React", "Node.js", "AI/ML", "Docker"]
 2026 Goals: ["Contribute to 10+ Open Source projects", "Master Next.js"]
 hobbies: ["Coding", "Exploring AI", "Reading Tech Blogs", "Gaming"]
 ```
- </p>
 <p align="right"> <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="coding gif"/> </p>
 
 ### 🌐 Detailed Skills & Tools
