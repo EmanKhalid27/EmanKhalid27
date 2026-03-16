@@ -10,9 +10,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/-eman-khalid"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://gmail.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+    <a href="https:/instagram.com/YOUR-Instagram"><img src="https://img.shields.io/badge/-instagram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=pink" alt="Instagram"/></a>
   <a href="https://github.com/EmanKhalid27"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
