@@ -53,6 +53,7 @@ hobbies: ["Coding", "Exploring AI", "Reading Tech Blogs", "Gaming"]
 
 <p align="left">
 <!-- Tools & Editors -->
+  <img src="https://skillicons.dev/icons?i=vscode,git,bash,figma,html,css,js,react,php,python,c,cpp,mongodb,mysql&perline=4" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
