@@ -2,7 +2,6 @@ name: Generate Datas
 
 on:
   schedule:
-    # execute every 12 hours
     - cron: "0 */12 * * *" 
   workflow_dispatch:
 
@@ -11,23 +10,23 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Ensure the token has permission to push to the output branch
+      contents: write
       
     steps:
-      # Snake Animation - Switched to the newer 'generate' version
+      # Generates the snake animation with the FULL grid labels
       - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: EmanKhalid27
-          # Updated outputs for the newer version of the snake action
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Deploy to output branch - Updated to v4 to fix Node.js warnings
-      - uses: crazy-max/ghaction-github-pages@v4
+      # Push the SVG to the 'output' branch
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update snake animation [skip ci]"
