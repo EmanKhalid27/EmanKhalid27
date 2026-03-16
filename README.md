@@ -52,8 +52,8 @@ fields_of_interests:
 technical_background:
   [
     "FrontEnd Development with React",
-    "JavaScript / Node.js Development",
     "UI/UX Designing",
+    "JavaScript / Node.js Development",
     "Building AI-powered Tools"
   ]
 
