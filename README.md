@@ -53,7 +53,6 @@ technical_background:
   [
     "FrontEnd Development with React",
     "UI/UX Designing",
-    "JavaScript / Node.js Development",
     "Building AI-powered Tools"
   ]
 
